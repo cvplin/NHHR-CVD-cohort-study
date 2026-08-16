@@ -1,6 +1,6 @@
 # NHHR and cardiovascular mortality in US adults with diabetes
 
-**Authors**: [Ruil]
+**Authors**: [Rui Lin]
 **Journal**: BMC Endocrine Disorders (submitted)
 **DOI**: [Zenodo 将自动生成]
 
@@ -17,7 +17,6 @@ Data are publicly available from:
 - `final_analysis.R` - Complete R script for data processing, statistical analysis, and figure generation
 - `Figure_1_Flowchart.tiff` - Study population selection flow diagram
 - `Figure_2_RCS.tiff` - Restricted cubic spline analysis
-- `Figure_3_KM.tiff` - Kaplan-Meier survival curves
 
 ## Requirements
 - R >= 4.1.0
